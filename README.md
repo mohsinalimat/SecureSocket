@@ -1,3 +1,21 @@
+
+<p align="center">
+  <img src="./SecureSocket.png" alt="SecureSocket">
+  <br/><a href="https://cocoapods.org/pods/SecureSocket">
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-brightgreen.svg">
+  <img alt="Author" src="https://img.shields.io/badge/author-Meniny-blue.svg">
+  <img alt="Build Passing" src="https://img.shields.io/badge/build-passing-brightgreen.svg">
+  <img alt="Swift" src="https://img.shields.io/badge/swift-3.1.1%2B-orange.svg">
+  <br/>
+  <img alt="Platforms" src="https://img.shields.io/badge/platform-macOS%20%7C%20iOS%20%7C%20watchOS%20%7C%20tvOS%20%7C%20Linux-lightgrey.svg">
+  <img alt="MIT" src="https://img.shields.io/badge/license-MIT-blue.svg">
+  <br/>
+  <img alt="Cocoapods" src="https://img.shields.io/badge/cocoapods-compatible-brightgreen.svg">
+  <img alt="Carthage" src="https://img.shields.io/badge/carthage-working%20on-red.svg">
+  <img alt="SPM" src="https://img.shields.io/badge/swift%20package%20manager-working%20on-red.svg">
+  </a>
+</p>
+
 # SecureSocket
 
 ## What's this?
