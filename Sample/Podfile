@@ -1,0 +1,15 @@
+# Uncomment the next line to define a global platform for your project
+platform :osx, '10.11'
+
+def common()
+    use_frameworks!
+    pod 'SecureSocket', :path => '../'
+end
+
+target 'ClientSample' do
+  common()
+end
+
+target 'ServerSample' do
+  common()
+end

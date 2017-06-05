@@ -1,0 +1,16 @@
+PODS:
+  - SecureSocket (1.0.0)
+
+DEPENDENCIES:
+  - SecureSocket (from `../`)
+
+EXTERNAL SOURCES:
+  SecureSocket:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SecureSocket: bc5f37cf753ce02d563134eadf0146ffc82c6b92
+
+PODFILE CHECKSUM: d67271f59e4f3974607b4e4923157e0941ec51ff
+
+COCOAPODS: 1.2.1
